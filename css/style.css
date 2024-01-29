@@ -168,28 +168,28 @@ section {
 }
 
 .swiper-slide:nth-child(1) .slide-img {
-  background-image: url("/images/mercury.png");
+  background-image: url("https://bu.dusays.com/2024/01/29/65b797c26c8af.png");
 }
 .swiper-slide:nth-child(2) .slide-img {
-  background-image: url("/images/venus.png");
+  background-image: url("https://bu.dusays.com/2024/01/29/65b797c4797dd.png");
 }
 .swiper-slide:nth-child(3) .slide-img {
-  background-image: url("/images/earth1.png");
+  background-image: url("https://bu.dusays.com/2024/01/29/65b797c285f98.png");
 }
 .swiper-slide:nth-child(4) .slide-img {
-  background-image: url("/images/mars.png");
+  background-image: url("https://bu.dusays.com/2024/01/29/65b797c27afaa.png");
 }
 .swiper-slide:nth-child(5) .slide-img {
-  background-image: url("/images/jupiter.png");
+  background-image: url("https://bu.dusays.com/2024/01/29/65b797c2a02af.png");
 }
 .swiper-slide:nth-child(6) .slide-img {
-  background-image: url("/images/saturn.png");
+  background-image: url("https://bu.dusays.com/2024/01/29/65b797c43c713.png");
 }
 .swiper-slide:nth-child(7) .slide-img {
-  background-image: url("/images/uranus.png");
+  background-image: url("https://bu.dusays.com/2024/01/29/65b797c443001.png");
 }
 .swiper-slide:nth-child(8) .slide-img {
-  background-image: url("/images/neptune.png");
+  background-image: url("https://bu.dusays.com/2024/01/29/65b797c40883c.png");
 }
 
 .slide-img {
